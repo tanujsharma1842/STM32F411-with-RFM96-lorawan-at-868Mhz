@@ -1,0 +1,12 @@
+debug.c:38:6:debug_init	1
+debug.c:48:6:debug_led	1
+debug.c:52:6:debug_char	1
+debug.c:58:6:debug_hex	1
+debug.c:63:6:debug_buf	2
+debug.c:72:6:debug_uint	2
+debug.c:78:6:debug_int	2
+debug.c:85:6:debug_str	2
+debug.c:91:6:debug_val	1
+debug.c:98:6:debug_valdec	1
+debug.c:105:5:debug_fmt	11
+debug.c:129:6:debug_event	2

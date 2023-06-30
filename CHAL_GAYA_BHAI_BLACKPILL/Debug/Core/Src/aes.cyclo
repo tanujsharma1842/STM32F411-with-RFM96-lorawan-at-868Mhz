@@ -1,0 +1,2 @@
+aes.c:224:13:aesroundkeys	5
+aes.c:246:6:os_aes	24
